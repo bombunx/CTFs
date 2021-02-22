@@ -22,7 +22,7 @@ print (x)
 ```
 ![regex_code](./regex_code.PNG)
 
-A simpler method can be doneshown below
+A simpler method can be done as shown below:
 ```
 grep -o -E 'flag{[[:alpha:]|_]{16}}' haystack.txt
 ```
