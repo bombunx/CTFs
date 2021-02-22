@@ -10,6 +10,7 @@ strings a.out | grep flag
 
 # Flag
 Tada! Easy flag.
+
 ![strings](./strings_FTW.PNG)
 
 ```
