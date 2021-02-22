@@ -10,7 +10,7 @@ strings a.out | grep flag
 
 # Flag
 Tada! Easy flag.
-![flag{strings_FTW}](strings_FTW.png)
+[strings](strings_FTW.png)
 
 ```
 flag{str1ngs_FTW}
