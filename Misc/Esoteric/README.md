@@ -6,8 +6,6 @@ This is a brainfuck encoded message. Just use any online tool to decode it. We p
 
 # Flag
 
-![brainfuck](./brainfuck.PNG)
-
 ```
 flag{wtf_is_brainfuck}
 ```
