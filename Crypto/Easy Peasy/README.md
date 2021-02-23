@@ -12,6 +12,9 @@ Convert the hex results into ASCII.
 synt{pbatengf_lbh_tbg_zr}
 ```
 Finally, use ROT13 to decode the string and you will get the flag.
+```
+flag{congrats_you_got_me}
+```
 
 # Flag
 flag{congrats_you_got_me}
