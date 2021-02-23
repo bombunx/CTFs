@@ -19,7 +19,9 @@ password = bbqsauce
 
 Next, unzip the zip folder with the password obtained and there would be two files. (*dataz* & *pickle_nick.png*)
 The first flag can be found by viewing the *pickle_nick.png* image.
+
 ![pickle_nick](./supersecure/pickle_nick.png)
+
 # Flag 1
 ```
 flag{pickl3_NIIICK}
@@ -33,7 +35,9 @@ Go further down the pcap file and there is another image transmitted called *but
 Same as the previous method, follow the FTP Data Stream and download the image.
 ![butter_jpg_download](./butter_jpg_download.PNG)
 Simply open the image file and the flag can be found.
+
 ![butter.jpg](./butter.jpg)
+
 # Flag 2
 ```
 flag{u_p4ss_butt3r}
