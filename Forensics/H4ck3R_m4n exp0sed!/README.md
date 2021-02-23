@@ -1,5 +1,5 @@
 # Challenge 1 (25)
-##H4ck3r_m4n exp0sed! (1)
+## H4ck3r_m4n exp0sed! (1)
 I got this packet capture with some of the notorious h4ckerm4n's secret information.
 The flag for this challenge should give you purpose.
 
@@ -27,7 +27,7 @@ flag{pickl3_NIIICK}
 ---
 
 # Challenge 2 (25)
-##H4ck3r_m4n exp0sed! (2)
+## H4ck3r_m4n exp0sed! (2)
 Go further down the pcap file and there is another image transmitted called *butter.jpg*.
 Same as the previous method, follow the FTP Data Stream and download the image.
 Simply open the image file and the flag can be found.
