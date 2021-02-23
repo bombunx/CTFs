@@ -19,7 +19,7 @@ password = bbqsauce
 
 Next, unzip the zip folder with the password obtained and there would be two files. (*dataz* & *pickle_nick.png*)
 The first flag can be found by viewing the *pickle_nick.png* image.
-![pickle_nick](/supersecure/pickle_nick.png)
+![pickle_nick](./supersecure/pickle_nick.png)
 # Flag 1
 ```
 flag{pickl3_NIIICK}
