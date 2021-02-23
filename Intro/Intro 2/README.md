@@ -5,7 +5,7 @@ The solution to this challenge can be found in one of the channels there.
 
 # Solution
 Join the Discord channel and look around. The flag for this challenge can be found in the **#general** chat under the channel description
-
+[!intro2 flag](./intro2_flag.PNG)
 # Flag
 ```
 flag{you_f0und_m3}
