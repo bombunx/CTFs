@@ -2,7 +2,8 @@
 NzMgNzkgNmUgNzQgN2IgNzAgNjIgNjEgNzQgNjUgNmUgNjcgNjYgNWYgNmMgNjIgNjggNWYgNzQgNjIgNjcgNWYgN2EgNzIgN2Q=
 
 # Solution
-This is a base64 encoded string based on the "=" sign at the end of the string. [Base64 Decoder](https://www.base64decode.org/)
+This is a base64 encoded string based on the "=" sign at the end of the string. [Base64 Decoder](https://www.base64decode.org/).
+
 Pass it into an online decoder will give you a hex result.
 ```
 73 79 6e 74 7b 70 62 61 74 65 6e 67 66 5f 6c 62 68 5f 74 62 67 5f 7a 72 7d
