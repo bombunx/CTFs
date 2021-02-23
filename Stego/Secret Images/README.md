@@ -11,6 +11,7 @@ Since, there were 2 images provided, and are somehow related to each other, we s
 We opened up [GIMP](https://www.gimp.org/) and loaded the first image.
 Then, we add the second image on top of the first image (2nd layer)
 Change the layer mode to **Difference** and the flag can be found.
+
 ![crypted_diff.png](./decrypted.PNG)
 
 # Flag
