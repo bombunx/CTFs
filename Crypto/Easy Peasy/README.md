@@ -2,7 +2,7 @@
 NzMgNzkgNmUgNzQgN2IgNzAgNjIgNjEgNzQgNjUgNmUgNjcgNjYgNWYgNmMgNjIgNjggNWYgNzQgNjIgNjcgNWYgN2EgNzIgN2Q=
 
 # Solution
-This is a base64 encoded string based on the "=" sign at the end of the string. ([Base64 Decoder](https://www.base64decode.org/).)
+This is a base64 encoded string based on the "=" sign at the end of the string. ([Base64 Decoder](https://www.base64decode.org/))
 
 Pass it into an online decoder will give you a hex result.
 ```
