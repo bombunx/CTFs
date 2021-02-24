@@ -3,8 +3,6 @@ Team Name: rawrxd.
 
 Team Rank: 307   |    Team Points: 1525
 
-
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![category breakdown](./blob/images/Category_Breakdown.png)  |  ![solve percentages](./blob/images/Solve_Percentages.png)
 
