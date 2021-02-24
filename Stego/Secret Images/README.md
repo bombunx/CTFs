@@ -1,5 +1,5 @@
-# Challenge (125)
-We discovered Arasaka operatives sending wierd pictures to each other. It looks like they may contain secret data. Can you find it?
+# Secret Images (125)
+> We discovered Arasaka operatives sending wierd pictures to each other. It looks like they may contain secret data. Can you find it?
 
 # Solution
 We were provided 2 different images, each making no sense on their own.
