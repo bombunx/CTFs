@@ -1,5 +1,5 @@
-# Challenge (50)
-Tusec mfy eaam gfqclaef oomgh ok. Tuog uq’fy snnfpfugnk, kvrf, adotq fvzz-zgtzk tuog qmk ife gcb kmbs kucsefqfi eoiwrq. Fvy lrhhu ge, ky srr oyj fvyke gvvlsg. Ufoamzmgg ck a fmzzaz, fakr huc rzuy a pchlffs xlvsf. Rts zdat wf rts mqmocy mr hbw cbiardm. Imr zofie olw ohf ayfwifay wqczhcly. Js npq bil Aacawycok – wr frndsmwng huc uryslf cs Yzchqmbif. Rdinz, fesrbaa ufd gvr pqainay cs aqbmgrfvvn. Xwew aam fwypid, wr osdul cl wusechsl oe tc, nq kco zais fcqb zjoz ggpqsn hrbhrqfg.
+# Classic Crypto (50)
+> Tusec mfy eaam gfqclaef oomgh ok. Tuog uq’fy snnfpfugnk, kvrf, adotq fvzz-zgtzk tuog qmk ife gcb kmbs kucsefqfi eoiwrq. Fvy lrhhu ge, ky srr oyj fvyke gvvlsg. Ufoamzmgg ck a fmzzaz, fakr huc rzuy a pchlffs xlvsf. Rts zdat wf rts mqmocy mr hbw cbiardm. Imr zofie olw ohf ayfwifay wqczhcly. Js npq bil Aacawycok – wr frndsmwng huc uryslf cs Yzchqmbif. Rdinz, fesrbaa ufd gvr pqainay cs aqbmgrfvvn. Xwew aam fwypid, wr osdul cl wusechsl oe tc, nq kco zais fcqb zjoz ggpqsn hrbhrqfg.
 
 Qw hnjr la zysdrff, aujcdinbf md giddvseq. Is uje nzy mzs. Qw rhb bnqfulibbf zqqumsr huyf wm ohnh gfq ulguc rrauryk tb rb. Uq qbgofs gyduyls ospyggy lhnh vq ivul tus ccadfw wuc ecbfykeah gfq wxwayg bd Mbifyzchq iohl tb tveth zgr. Gvr uaffv if wa rdcotlr. Kr qqs cl eisew pos – oae, dbtqfnq, mhfqcd. Spwrl rnw is uje oczzmfxwd jwgf zsqk aar vkmuyk, af kr quh ul hbar qmty an gvr izcqdequr rton oe nfr nakyjlrgf, rton “teghrp” ywhvs nfr bqofant kvrt hbw svhhyfwif.
 
