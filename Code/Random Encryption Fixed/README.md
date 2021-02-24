@@ -1,4 +1,4 @@
-# Random Encryption Fixed
+# Random Encryption Fixed (100)
 
 >  We found the following file on a hacked terminal:
 
