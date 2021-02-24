@@ -1,8 +1,8 @@
 # Spring MVC 1 (25)
 
-> Description: Attached is a zip archive containing the source code of a Spring MVC Java web application. Download and extract the archive.
+> * Description: Attached is a zip archive containing the source code of a Spring MVC Java web application. Download and extract the archive.
 
-The goal is for you to analyze the code and construct HTTP requests to either (There are multiple sites due to high traffic volume):
+> The goal is for you to analyze the code and construct HTTP requests to either (There are multiple sites due to high traffic volume):
 
     http://challenges.ctfd.io:30542/
 
