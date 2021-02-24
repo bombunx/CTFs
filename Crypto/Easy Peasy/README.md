@@ -1,5 +1,5 @@
-# Challenge (50)
-NzMgNzkgNmUgNzQgN2IgNzAgNjIgNjEgNzQgNjUgNmUgNjcgNjYgNWYgNmMgNjIgNjggNWYgNzQgNjIgNjcgNWYgN2EgNzIgN2Q=
+# Easy Peasy (50)
+> NzMgNzkgNmUgNzQgN2IgNzAgNjIgNjEgNzQgNjUgNmUgNjcgNjYgNWYgNmMgNjIgNjggNWYgNzQgNjIgNjcgNWYgN2EgNzIgN2Q=
 
 # Solution
 This is a base64 encoded string based on the "=" sign at the end of the string. ([Base64 Decoder](https://www.base64decode.org/))
