@@ -28,4 +28,4 @@ Oh, well, another round of encoding ?! Hmm, oh, this might well be the final enc
 
 So there it is, the flag is there! 
 
-Flag: `utflag{file_extensions_mean_nothing}`
+Flag: `utflag{now_youre_playing_with_crypto}`
