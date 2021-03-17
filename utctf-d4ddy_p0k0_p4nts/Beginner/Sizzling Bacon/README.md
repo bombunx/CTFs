@@ -17,4 +17,9 @@ In this case, the binary representations are replaced with 's' and 'S'.
 We know that the plaintext before the '{' is 'utflag', so by changing the 's' to 1 and 'S' to 0 would give us the binary represntation of the flag.
 Convert the binaries to plaintext using ASCII table and the flag is obtained.
 
+```
+101001001100101010110000000110{0001010001010001001001111110000000100000000100111001101000100100001111001110010010001}
+```
+
+
 Flag: `utflag{crispy_bacon_cipher}`
