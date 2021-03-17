@@ -3,7 +3,7 @@ Team Name: rawrxd.
 
 Team Rank: 307   |    Team Points: 1525
 
-![scoreboard](./blob/images/UTCTF_Scoreboard.PNG)
+![scoreboard](./blob/images/Tenable_Scoreboard.PNG)
 
 
 ![category breakdown](./blob/images/Category_Breakdown.png) ![solve percentages](./blob/images/Solve_Percentages.png)
