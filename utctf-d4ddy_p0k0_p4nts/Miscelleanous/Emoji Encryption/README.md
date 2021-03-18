@@ -16,7 +16,9 @@ To get the flag, the first letter of the subject the emojis represent are used.
 
 E.g.
   Umbrella = u
+  
   Turkey = t
+  
   Fire = f
   .
   .
