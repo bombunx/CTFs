@@ -15,6 +15,7 @@ We know that the flag starts with "utflag{" so by matching the letters to the co
 To get the flag, the first letter of the subject the emojis represent are used.
 
 E.g.
+
   Umbrella = u
   
   Turkey = t
