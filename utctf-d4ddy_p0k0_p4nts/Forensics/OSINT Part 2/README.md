@@ -1,7 +1,7 @@
 # OSINT Part 2 (766)
 
 > Find the origins of the linked file found in part 1.
-
+>> 'http://misc.utctf.live:8756/'
 
 # Solution
 
