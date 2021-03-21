@@ -19,3 +19,5 @@ File Explorer.
 
 The file is successfully extracted and we entered `strings Unalloc_4_872448_435159040 > output.txt`, which will store all the readable text from the file into 
 **output.txt**. Next, using the `grep utflag output.txt` command, we obtain 2 flags. The first flag is the correct flag. 
+
+Flag: `utflag{data_never_disappears}`
