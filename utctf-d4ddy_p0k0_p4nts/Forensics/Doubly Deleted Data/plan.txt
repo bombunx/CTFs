@@ -1,0 +1,5 @@
+0) delete this file after writing it so no one knows my perfect plan
+1) analyse the copy of the hacker's disk image
+2) find that gosh darned flag
+3) ???
+4) profit
