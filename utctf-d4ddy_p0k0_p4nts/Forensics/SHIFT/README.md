@@ -4,10 +4,6 @@
 
 # Solution
 
-At first glance, the [image](./SHIFT.png) was heavily distorted. 
-
-![Image of flag](https://github.com/bombunx/CTFs/blob/master/utctf-d4ddy_p0k0_p4nts/Forensics/SHIFT/Flag.pptx)
-
-We obtained the flag by spreading the image in a PowerPoint slide. 
+At first glance, the [image](./SHIFT.png) was heavily distorted. We obtained the flag by spreading the image in a [PowerPoint slide](https://github.com/bombunx/CTFs/blob/master/utctf-d4ddy_p0k0_p4nts/Forensics/SHIFT/Flag.pptx). 
 
 Flag: `utflag{not_when_i_shift_into_maximum_overdrive}`
