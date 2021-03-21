@@ -15,7 +15,7 @@ disk image named **sus_image.img**. Next, we tried to extract the image. However
 
 ![Image of plan.txt](https://github.com/bombunx/CTFs/blob/master/utctf-d4ddy_p0k0_p4nts/Forensics/Doubly%20Deleted%20Data/plan.PNG)
 
-We looked around for other suspicious looking files and found [**plan.txt**](./plan.txt). However, it was just a text file and nothing much. 
+We looked around for other suspicious looking files and found [**plan.txt**](./plan.txt). However, it was just a text file and nothing much. However, it hinted that the flag can be found in the hacker's disk image, which is most likely also in this disk image. 
 
 ![Image of Unallocated folder](https://github.com/bombunx/CTFs/blob/master/utctf-d4ddy_p0k0_p4nts/Forensics/Doubly%20Deleted%20Data/Unallocated%20Files.PNG)
 
