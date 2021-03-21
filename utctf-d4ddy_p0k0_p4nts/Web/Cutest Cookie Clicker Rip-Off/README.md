@@ -10,7 +10,7 @@
 
 Going into the challenge page will show us a Cookie Clicker game, where the goal is to beat the high score to obtain the flag. However, this seems impossible due to the ridiculously high score of 1,000,000 and we only had 30 seconds to beat it. 
 
-![Image of inspect element](./Inspect$20Element.PNG)
+![Image of inspect element](./Inspect%20Element.PNG)
 
 We inspected the page's elements and check that is powering the game. It turns out that the game is from a JavaScript script called **game.js**. Looking further into the script, we can see that the game will reload itself after each game. With this knowledge, we can use Burp Suite to intercept the request to see some of the parameters parsed. 
 
