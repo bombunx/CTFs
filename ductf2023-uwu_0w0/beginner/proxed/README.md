@@ -5,7 +5,7 @@ Cool haxxorz only
 
 Author: Jordan Bertasso
 ```
->[http://web2.utctf.live:5320/](http://proxed.duc.tf:30019)
+>[http://proxed.duc.tf:30019](http://proxed.duc.tf:30019)
 
 # Solution
 When connecting to the webpage, it will prompt that an untrusted IP is connecting to it.
