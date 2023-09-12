@@ -1,0 +1,7 @@
+Package: uctfdeb
+Version: 0.0.1
+Homepage: https://uctf.ir
+Maintainer: UCTF Support https://t.me/uctf_support_bot
+Architecture: amd64
+Description: You can find the flag in your tmp directory under UCTFDEB folder
+    only after installation!

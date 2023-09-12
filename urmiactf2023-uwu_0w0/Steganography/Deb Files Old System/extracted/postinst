@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Create folder
+if [ ! -d "/tmp/UCTFDEB" ]; then
+	mkdir "/tmp/UCTFDEB"
+fi
+
+# Move the flag
+echo 'UCTF{c4n_p3n6u1n5_5urv1v3_1n_54l7_w473r}' > /tmp/UCTFDEB/dont-delete-me
