@@ -1,5 +1,5 @@
 # Writeups for DownUnderCTF 2023. 
-Team Name: rawrxd. 
+Team Name: uwu_0w0. 
 
 Team Rank: 555   |    Team Points: 775
 

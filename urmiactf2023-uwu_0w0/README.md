@@ -1,5 +1,5 @@
 # Writeups for UrmiaCTF 2023. 
-Team Name: rawrxd. 
+Team Name: uwu_0w0. 
 
 Team Rank: 59   |    Team Points: 2900
 
