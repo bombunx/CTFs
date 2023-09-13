@@ -8,6 +8,3 @@ Team Rank: 59   |    Team Points: 2900
 
 ![score breakdown](./blob/images/score_breakdown.PNG)
 
-
-
-! Update Forensics and Stego Challenge
